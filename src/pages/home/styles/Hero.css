@@ -1,0 +1,38 @@
+.hero{
+    background-image: url("../../../assets/HomeAssets/tru.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+    width: 94%;
+    margin: auto;
+    padding-left: 1%;
+    padding-top: 5%;
+    padding-left: 3%;
+}
+.hero .hero-header{
+    width: 35%;
+}
+.hero-header h1{
+    font-size: 3rem;
+}
+
+.hero-header p{
+    font-size: 1.2rem;
+}
+.star{
+    width: 5%;
+}
+.stars{
+    display: flex;
+    width: 40%;
+    margin-top: 2%;
+    color: #fff;
+}
+.btns{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    width: 30%;
+}
